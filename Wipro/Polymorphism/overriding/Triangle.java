@@ -1,4 +1,4 @@
-package Wipro.Polymorphism.shape;
+package Wipro.Polymorphism.overriding;
 
 public class Triangle extends Shape{
     public void draws(){
