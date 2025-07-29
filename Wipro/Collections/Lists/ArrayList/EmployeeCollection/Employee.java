@@ -1,4 +1,4 @@
-package Wipro.Collections.Lists.EmployeeCollection;
+package Wipro.Collections.Lists.ArrayList.EmployeeCollection;
 
 public class Employee {
     int empid;

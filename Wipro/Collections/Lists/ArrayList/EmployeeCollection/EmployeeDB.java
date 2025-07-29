@@ -1,4 +1,4 @@
-package Wipro.Collections.Lists.EmployeeCollection;
+package Wipro.Collections.Lists.ArrayList.EmployeeCollection;
 import java.util.*;
 public class EmployeeDB {
     ArrayList<Employee> list=new ArrayList<>();

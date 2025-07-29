@@ -1,9 +1,11 @@
-package Wipro.Collections.Lists;
-import java.util.*;
-public class Months {
+package Wipro.Collections.Lists.Vector;
 
+import java.util.ListIterator;
+import java.util.Vector;
+
+public class Months {
     public void listdisplay(){
-        ArrayList<String>list=new ArrayList<>();
+        Vector<String>list=new Vector();
         list.add("1-jan");
         list.add("2-feb");
         list.add("3-mar");
@@ -31,3 +33,4 @@ public class Months {
         mon.listdisplay();
     }
 }
+
